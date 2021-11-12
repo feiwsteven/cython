@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T09:20:09.488Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="iCtU1iEh4S1hY9UGt6Ak" version="15.7.3" type="github"><diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">7ZhNj5swEIZ/DcdKgM1Hrkl3t5c9RdqevTCAtQZHxlmS/vraMHw1QWmkVtkDySEz7wwee54BRThkV55eFDsUrzIF4fhuenLId8f3PerG5scq506JKAq54ikmjcKe/wIUXVSPPIV6lqilFJof5mIiqwoSPdOYUrKZp2VSzKseWA4Xwj5h4lL9yVNdoOq57hj4ATwvsHQcYOCdJR+5kscK61Wygi5Ssn4ZTK0LlspmIpEnh+yUlLqzytMOhG1r37HuuueF6LBlBZX+mwtIRIHQMPYhJcQD+IYrfDJxxDZsjzWvoK4dPxRmzW3KP42ZWxOZd7opMgnh8fS576apa8AZZ9sUXMP+wBIbaczsGK3QpTCeZ8y2cWD35xpvaJB1UlYXQySRJU/QzmSln1nJhR21N1ApqxjKOFe2ta2/k0KqdkvEdcNNWzLjQkz0LLBfW1wr+QGTSNh+huNN+9w3DpSG00TCvr+ALEGrs0nBKCE4A3h7eDH6zThstJ+1YjJng8hwwPNh7ZG0MRD2dfA0MKfJWJDR9xg2HrsCfq/tDeK73sryFksazFnSS5ReeAXlIP5TlP4iymBFeS/KIHwoS7LIkqwsb7GMvDlL4j6UJV1kGa0sb7H0Nl+KZbDIMl5Z3mLpx3/89SEPZRkusvRXlrdYhv6XYhktsqQry3tZ0uihLONFluHK8t5n7H9ladzxnUUbm7wTIk+/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-12T09:36:53.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="XSnOhdbOaANffAr_MiBA" version="15.7.3" type="github">
+  <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
+    <mxGraphModel dx="1387" dy="1130" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="374e34682ed331ee-1" value="模型" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="330" y="180" width="400" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-1" value="关系图谱" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="450" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-2" value="聚类分析" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="450" y="560" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-3" value="路径分析" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="710" y="300" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-4" value="NLP" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="190" y="300" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-5" value="deep learning" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="280" y="130" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-6" value="统计聚合" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="620" y="130" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-7" value="监督学习" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="620" y="470" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-8" value="时间序列" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fontColor=#0069D1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="280" y="470" width="160" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
