@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-14T03:50:52.964Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="QRLR1OOqscIEPrFOh6EQ" version="15.7.3" type="github">
+<mxfile modified="2021-11-14T04:47:39.241Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="_96Kis-LSDJvwbR8dE2w" version="15.7.3" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1387" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -257,7 +257,22 @@
           <mxGeometry x="80" y="704.5" width="60" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="PhpXdE0GWQOgbOGKaO0m-543" value="应用层" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F3E5F5;" vertex="1" parent="1">
-          <mxGeometry x="80" y="130" width="60" height="70" as="geometry" />
+          <mxGeometry x="80" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PhpXdE0GWQOgbOGKaO0m-544" value="拉新" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=placeholder" vertex="1" parent="1">
+          <mxGeometry x="156" y="130" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PhpXdE0GWQOgbOGKaO0m-545" value="激活" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=placeholder" vertex="1" parent="1">
+          <mxGeometry x="222" y="130" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PhpXdE0GWQOgbOGKaO0m-546" value="留存" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=placeholder" vertex="1" parent="1">
+          <mxGeometry x="294" y="130" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PhpXdE0GWQOgbOGKaO0m-547" value="推广" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=placeholder" vertex="1" parent="1">
+          <mxGeometry x="426" y="130" width="66" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PhpXdE0GWQOgbOGKaO0m-548" value="收入" style="sketch=0;html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=placeholder" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="66" height="58.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
